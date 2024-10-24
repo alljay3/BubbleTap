@@ -1,0 +1,2 @@
+Build path: G:/GameDebeloping/UnityProjects/BubbleGame/game
+Build number: 17
